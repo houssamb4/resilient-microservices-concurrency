@@ -1,0 +1,12 @@
+C:\Users\houss\OneDrive\Documents\TP-27-Test-de-charge-Observabilit-Concurrence-Verrou-DB-Resilience4j-Actuator-Metrics-main\book-service\src\main\java\com\tp27\bookservice\controller\GlobalExceptionHandler.java
+C:\Users\houss\OneDrive\Documents\TP-27-Test-de-charge-Observabilit-Concurrence-Verrou-DB-Resilience4j-Actuator-Metrics-main\book-service\src\main\java\com\tp27\bookservice\controller\BookController.java
+C:\Users\houss\OneDrive\Documents\TP-27-Test-de-charge-Observabilit-Concurrence-Verrou-DB-Resilience4j-Actuator-Metrics-main\book-service\src\main\java\com\tp27\bookservice\config\AppConfig.java
+C:\Users\houss\OneDrive\Documents\TP-27-Test-de-charge-Observabilit-Concurrence-Verrou-DB-Resilience4j-Actuator-Metrics-main\book-service\src\main\java\com\tp27\bookservice\model\PriceResponse.java
+C:\Users\houss\OneDrive\Documents\TP-27-Test-de-charge-Observabilit-Concurrence-Verrou-DB-Resilience4j-Actuator-Metrics-main\book-service\src\main\java\com\tp27\bookservice\BookServiceApplication.java
+C:\Users\houss\OneDrive\Documents\TP-27-Test-de-charge-Observabilit-Concurrence-Verrou-DB-Resilience4j-Actuator-Metrics-main\book-service\src\main\java\com\tp27\bookservice\exception\BookNotFoundException.java
+C:\Users\houss\OneDrive\Documents\TP-27-Test-de-charge-Observabilit-Concurrence-Verrou-DB-Resilience4j-Actuator-Metrics-main\book-service\src\main\java\com\tp27\bookservice\model\BorrowResponse.java
+C:\Users\houss\OneDrive\Documents\TP-27-Test-de-charge-Observabilit-Concurrence-Verrou-DB-Resilience4j-Actuator-Metrics-main\book-service\src\main\java\com\tp27\bookservice\exception\OutOfStockException.java
+C:\Users\houss\OneDrive\Documents\TP-27-Test-de-charge-Observabilit-Concurrence-Verrou-DB-Resilience4j-Actuator-Metrics-main\book-service\src\main\java\com\tp27\bookservice\service\PricingClient.java
+C:\Users\houss\OneDrive\Documents\TP-27-Test-de-charge-Observabilit-Concurrence-Verrou-DB-Resilience4j-Actuator-Metrics-main\book-service\src\main\java\com\tp27\bookservice\service\BookService.java
+C:\Users\houss\OneDrive\Documents\TP-27-Test-de-charge-Observabilit-Concurrence-Verrou-DB-Resilience4j-Actuator-Metrics-main\book-service\src\main\java\com\tp27\bookservice\model\Book.java
+C:\Users\houss\OneDrive\Documents\TP-27-Test-de-charge-Observabilit-Concurrence-Verrou-DB-Resilience4j-Actuator-Metrics-main\book-service\src\main\java\com\tp27\bookservice\repository\BookRepository.java
